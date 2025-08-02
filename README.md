@@ -45,7 +45,15 @@ This project was created to make it easy for everyone — drivers of electric an
 ## 👨‍💻 Contributing
 
 Contributions and feedback are welcome!
-- [Open an issue](https://github.com/MarkyGitHub/charge2fuel-app/issues) for bugs or feature requests
+
+- 🐞 **Found a bug?** [Open a bug report](https://github.com/MarkyGitHub/charge2fuel-app/issues/new?template=bug_report.md)
+- ✨ **Have an idea or feature request?** [Suggest a feature](https://github.com/MarkyGitHub/charge2fuel-app/issues/new?template=feature_request.md)
+- 📄 **General questions or other topics?** [Open a regular issue](https://github.com/MarkyGitHub/charge2fuel-app/issues/new)
+
+Feel free to fork the project and submit pull requests. Please follow the code style and guidelines described in the repository.
+
+Thank you for helping make **charge2fuel** better!
+
 ---
 
 ## 📝 License
